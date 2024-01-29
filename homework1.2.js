@@ -32,3 +32,7 @@ function allowedTOIn(name, age, department) {
     }
 
 }
+
+allowedTOIn("Serhii", 18, qa)
+
+let date = new Data()

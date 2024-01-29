@@ -11,3 +11,10 @@ console.log("hello" === 123);
 
 console.log(123 == 123);
 console.log("hello" == 123);
+
+
+let map = new Map();
+map.set("key","number");
+map.set("age","21");
+
+console.log(map.get("key"));
